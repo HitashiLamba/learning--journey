@@ -1,4 +1,4 @@
-import express from "express";
+/*import express from "express";
 import bodyParser from "body-parser";
 import pg from "pg";
 import env from "dotenv";
@@ -107,4 +107,4 @@ app.post("/new", async (req, res) => {
 
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
-});
+});*/
